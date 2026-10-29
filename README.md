@@ -12,19 +12,19 @@ This project uses the **Country Data Comparison** dataset to explore differences
 
 Explores relationships between economic development and quality-of-life measures, including comparisons such as GDP per capita versus life expectancy.
 
-![Economic Development & Quality of Life](Economic%20Development%20%26%20Quality%20of%20Life.png)
+![Economic Development & Quality of Life](screenshots/Economic%20Development%20%26%20Quality%20of%20Life.png)
 
 ### 2. Global Economic Overview
 
 Presents country-level economic information, including a GDP world map and related economic views.
 
-![Global Economic Overview](Global%20Economic%20Overview.png)
+![Global Economic Overview](screenshots/Global%20Economic%20Overview.png)
 
 ### 3. Population & Demographic Analysis
 
 Brings together population and demographic indicators to support comparisons across countries.
 
-![Population & Demographic Analysis](Population%20%26%20Demographic%20Analysis.png)
+![Population & Demographic Analysis](screenshots/Population%20%26%20Demographic%20Analysis.png)
 
 ## Interactive Tableau Actions
 
